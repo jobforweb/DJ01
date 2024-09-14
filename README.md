@@ -2,7 +2,10 @@
  ## Введение в Django и создание проекта
 
 ```python
+ python -m venv venv
+ .venv\Scripts\activate
  pip install django
+ python.exe -m pip install --upgrade pip
 ```
 
 ## Пример проекта ZeroCoder:
